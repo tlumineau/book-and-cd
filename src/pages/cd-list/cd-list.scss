@@ -1,0 +1,8 @@
+page-cd-list {
+  .isLend{
+    background-color: color($colors, danger-light);
+  }
+  .isReturn{
+    background-color:color($colors, secondary-light);
+  }
+}
